@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "School"
-git add .
-git commit -m "Starting to code today, so cool"
-git push
+echo "The school is open!"
