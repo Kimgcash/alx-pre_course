@@ -1,2 +1,5 @@
 echo ‘#!/bin/bash’ >alx
 echo "ALX School is so cool!"
+git add . 
+git commit -m 'Hot fix'
+git push 
