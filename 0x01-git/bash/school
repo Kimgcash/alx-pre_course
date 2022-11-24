@@ -1,5 +1,2 @@
  #!/bin/bash’>schol
- School”>>school
- git add .
-“Starting to code today, so cool” 
- git push
+ echo "The school is open!"
