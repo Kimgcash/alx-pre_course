@@ -2,4 +2,4 @@
  echo "The school is open!"
 git add . 
 git commit -m “My personal work” 
- git push
+git push --set-upstream origin update_script
