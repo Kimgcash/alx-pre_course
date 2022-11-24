@@ -5,3 +5,4 @@ git config --global user.name "Kimgcash"
 git add .
 git commit -m 'My first commit'
 git push       
+up_to_date
